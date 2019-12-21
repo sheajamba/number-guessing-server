@@ -1,7 +1,6 @@
 
 ## Number Guessing Server
 
-# Shea Jamba
 
 This project is written in Java on MacOS.
 
